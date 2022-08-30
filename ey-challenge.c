@@ -26,7 +26,7 @@
 // Declaración de funciones
 void llenarArray(int C[], int N);
 void mostrarArray(int C[], int N);
-void predictorDeSaltos(int C[], int N);
+void jumpOnMarsh(int C[], int N);
 
 int main(){
     // Declaro las variables
@@ -47,7 +47,7 @@ int main(){
     
     mostrarArray(C,N);
     
-    predictorDeSaltos(C,N);
+    jumpOnMarsh(C,N);
 
     return 0;
 }
@@ -73,7 +73,7 @@ void mostrarArray(int C[], int N){
     printf("\n");
 }
 
-void predictorDeSaltos(int C[], int N){
+void jumpOnMarsh(int C[], int N){
     int i=0;
     int saltos = 0;
 

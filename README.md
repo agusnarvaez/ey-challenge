@@ -29,17 +29,21 @@
     Print the minimum number of jumps required to win the game
 
 #### Example 0
-##### Sample Input 0:
+ - Sample Input 0:
     0 0 1 0 0 1 0
-##### Sample Output 0:
+    
+ - Sample Output 0:
     4
-##### Explanation 0: 
+
+ - Explanation 0: 
     Juanito must avoid C[2] and C[5]. He can win the game with a minimum of 4 jumps.
 
 #### Example 1
-##### Sample Input 1:
+ - Sample Input 1:
     0 0 0 0 1 0
-##### Sample Output 1:
+
+ - Sample Output 1:
     3
-##### Explanation 1: 
+
+ - Explanation 1:
     The only pit to avoid is C[4]. Juanito can win the game in 3 jumps.
