@@ -1,10 +1,10 @@
-# Proyecto creado con React para desafío de EY
+# Resolución para desafío de EY creada en lengauje C
 
 ## Agustín Narvaez
-## Para ejecutar el programa puede ejecutar el archivo "ey-challenge.exe" introducir los siguientes comandos en consola para compilarlo y ejecutarlo:
+## Para ejecutar el programa puede ejecutar el archivo "ey-challenge.exe" o bien, introducir los siguientes comandos en consola para compilarlo y ejecutarlo:
     gcc ey-challenge.c -o ey-challenge
     ./ey-challenge
-    
+
 ### Instrucciones del desafío
     Juanito is lost in the woods and apparently the only way out is through a marsh in the middle of the trees. In the mud, there are a number of stones in the water to use for jumping. Juanito can jump on any stone having a number that is equal to the number of the current stone plus 1 or 2. He must avoid the pits in the water.
 
